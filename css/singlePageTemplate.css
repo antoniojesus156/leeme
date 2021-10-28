@@ -27,7 +27,16 @@ header {
 }
 center {
 	color: #040833;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
 	background-color: #040833;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+  	border-bottom: 1px solid #040833;
 }
 .logo {
 	color: #fff;
